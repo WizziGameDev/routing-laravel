@@ -1,0 +1,16 @@
+{
+  "resources/images/main.jpg": {
+    "file": "assets/main-woZAOrEu.jpg",
+    "src": "resources/images/main.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BziwsqBe.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-D-sv12UV.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
